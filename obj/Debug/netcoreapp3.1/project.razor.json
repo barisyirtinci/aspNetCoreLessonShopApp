@@ -16246,13 +16246,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\brsyr\\shopapp\\shopapp.webui\\Views\\Shared\\_product.cshtml",
+      "TargetPath": "Views\\Shared\\_product.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\brsyr\\shopapp\\shopapp.webui\\Views\\Home\\MyView.cshtml",
       "TargetPath": "Views\\Home\\MyView.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\brsyr\\shopapp\\shopapp.webui\\Views\\Shared\\_noproduct.cshtml",
+      "TargetPath": "Views\\Shared\\_noproduct.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\brsyr\\shopapp\\shopapp.webui\\Views\\Product\\List.cshtml",
       "TargetPath": "Views\\Product\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\brsyr\\shopapp\\shopapp.webui\\Views\\Shared\\_header.cshtml",
+      "TargetPath": "Views\\Shared\\_header.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\brsyr\\shopapp\\shopapp.webui\\Views\\Shared\\_navbar.cshtml",
+      "TargetPath": "Views\\Shared\\_navbar.cshtml",
       "FileKind": "mvc"
     },
     {
